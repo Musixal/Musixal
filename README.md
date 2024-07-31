@@ -1,4 +1,4 @@
-# Hello, I'm musixal! 👋
+# Hello, I'm Musixal! 👋
 
 ![Visitor Count](https://hits.dwyl.com/musixal/musixal.svg)
 
